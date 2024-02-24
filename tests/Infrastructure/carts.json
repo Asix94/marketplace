@@ -1,0 +1,36 @@
+[
+    {
+        "uuid": "2e329b9b-d087-47b0-8816-e46f4e24dc28",
+        "products": [
+            {
+                "uuid": "a87bc432-ae9b-4757-9757-e79dd7f04930",
+                "name": "test1",
+                "price": 10,
+                "quantity": 2
+            }
+        ],
+        "price": 20
+    },
+    {
+        "uuid": "fa1f9b1a-10cb-4a51-b979-67cc735e9ff7",
+        "products": [],
+        "price": 0
+    },
+    {
+        "uuid": "2726c422-da27-4067-ac55-46c8a44d2407",
+        "products": [
+            {
+                "uuid": "6dec5d56-0ed7-4a88-b0ca-63f7b8e63089",
+                "name": "test1",
+                "price": 10,
+                "quantity": 1
+            }
+        ],
+        "price": 10
+    },
+    {
+        "uuid": "21132674-2cb0-4e99-b548-b1c1a90b2cf5",
+        "products": [],
+        "price": 0
+    }
+]

@@ -1,0 +1,14 @@
+[
+    {
+        "uuid": "8d2a95bc-9e67-45c5-a2df-bc47df75988e",
+        "name": "product2",
+        "price": 200,
+        "quantity": 1
+    },
+    {
+        "uuid": "670c2c96-863d-48cd-aaeb-c5f1a0d292d0",
+        "name": "product1",
+        "price": 100,
+        "quantity": 1
+    }
+]

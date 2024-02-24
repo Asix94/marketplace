@@ -3,3 +3,19 @@ controllers:
         path: ../src/Controller/
         namespace: App\Controller
     type: attribute
+
+create_product:
+    path: /product/create
+    controller: App\Controller\ProductController::createProduct
+
+add_to_cart:
+    path: /shop/add-to-cart
+    controller: App\Controller\CartController::addToCart
+    
+delete_to_cart:
+    path: /shop/delete-to-cart
+    controller: App\Controller\CartController::deleteToCart
+    
+pay:
+    path: /shop/pay
+    controller: App\Controller\CartController::pay
